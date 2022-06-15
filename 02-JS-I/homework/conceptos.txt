@@ -1,0 +1,16 @@
+conceptos Java 
+
+variables = 'una variable es el nombre que le asignas a un valor
+            o mas bien es la forma en la que almacenamos un valor para asi porderlo llamra depues'
+
+strings = 'es la forma en la que hacemos saber que lo que esta escrito es solo una linea de texto
+           y se pone entre comillas'
+
+funciones = ' una funcion nos ayuda a que se ejcute una accion o una serie de acciones,
+              de esa forma cada vez que llamemos a esa funcion esa misma accion se ejcutara'
+        
+declaraciones = 'una declaracion es una palabara que ya ejecuta una accion en especifico,
+                  es decir esa palabra siempre ejecutara la misma accion la cual ya esta definida por el programa'
+            
+valores booleanos = 'estos valores estan ya definidos como 'true' o 'false', es decir si tu escribes 2<1 te devolvera 
+                     el valor de 'false' pues esto es falso ' 
