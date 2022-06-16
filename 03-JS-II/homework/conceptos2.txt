@@ -1,0 +1,15 @@
+
+CONCEPTOS JS HOMWORK II
+
+for = for es una bucle que evalua una expresion una y otra vez hasta que devuelve 
+      lo que queremos.
+
+&& = es un operador logico que significa 'Y' o 'and'. sirve para evaluar mas de una expresion
+     con los mismos parametros y en ese caso si ambas cumples con esos parametros
+     el programa arojara true o si una o las dos no cumplen con algun parametro arrpjara false.
+
+|| = tambien es un operador logico que significa 'o' o 'or'. sirve para evaluar mas de una expresion 
+     con los mismos parametros pero en este caso si solo una de estas expresiones cumple con esos parametros
+     arrojara true y si ninguno lo cumple arrojara false.
+    
+! =  tambien es un operador logico que significa 'no' o 'not'. devolvera el valor opuesto de lo que se le pide.
