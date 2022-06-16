@@ -1,4 +1,5 @@
 
+
 CONCEPTOS JS HOMWORK II
 
 for = for es una bucle que evalua una expresion una y otra vez hasta que devuelve 
