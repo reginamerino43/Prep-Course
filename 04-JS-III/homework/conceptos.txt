@@ -1,0 +1,6 @@
+
+
+ARRAYS
+
+Una array es una matriz, tipo lista encerrada en [] que puede tener valores como
+strings, numeros etc... los cuales solo estan separados por comas.
