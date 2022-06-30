@@ -69,9 +69,11 @@ function tieneEmail (usuario) {
   if (usuario[email]){
     return true;
   }
-  else [
-    return false;
-  ]
+  else {
+    return false
+  }
+    
+  
 }
 
 function tienePropiedad (objeto, propiedad) {
