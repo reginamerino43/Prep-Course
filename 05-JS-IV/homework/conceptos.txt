@@ -1,0 +1,18 @@
+
+
+CONCEPTOS, TAREA 5
+
+OBJETOS = Un objeto es muy parecido a un array, la diferencia consiste en que un objeto se encierra en {} y este lleva 
+necesariamente una key y un value, ose que podemos decir que un bojeto puede contener mas informacion sobre 
+algo en especifico.
+
+PROPIEDADES = una propiedad es el conjunto de un key y un value dentro de un objeto, ya que este puede contener mas de
+una propiedad.
+        
+METODOS = Es una funcion que se encuentra dentor delobjeto, esta funcion puede ser asignada como un value para una key.
+
+BUCLE for...in = Es una herramienta para iterar las clves y valores que existen en un objeto.
+
+NOTACION DE PUNTOS VS NOTACION DE CORCHETES = La notacion de puntos es la que va en medio de cada key y value para 
+determinar que valor tiene cada clave y la notacion de corchetes se usa para encerrar al objeto completo.
+                                              
