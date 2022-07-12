@@ -1,0 +1,7 @@
+
+
+CONCEPTOS 5
+
+PROTOTYPE = Es una propiedad que tiene cada clase, y es la forma en la que se almacena en la memoria de una computadora.
+
+CONSTRUCTORS = Es un metodo para dar inicio a un objeto dentro de una clase.
